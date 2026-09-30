@@ -15,8 +15,8 @@
 ### ◼ نبذة | About
 
 ```
-> currently   : GLASS AI OPNE
-> learning    : GLASS AI OPNE
+> currently   : GLASS AI OPNEN
+> learning    : GLASS AI OPNEN
 > open to     : collaboration
 ```
 
