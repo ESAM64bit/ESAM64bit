@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&pause=1200&color=9A9A9A&center=true&vCenter=true&width=460&lines=%24+whoami;developer+%7C+builder;%24+cd+GLASS-AI-OPNE" alt="typing" />
 
-<br/>
+<# br>
 
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ESAM64bit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/essam-mesbah-a52278433)
@@ -17,7 +17,7 @@
 
 ---
 
-### `$ cat about.txt`
+### `# cat about.txt`
 
 ```bash
 name       = "ESAM64bit"
@@ -26,7 +26,7 @@ learning   = "GLASS AI OPNE"
 open_to    = "collaboration"
 ```
 
-### `# ls stack/`
+### `# ls stack`
 
 <div align="center">
 
@@ -39,7 +39,7 @@ open_to    = "collaboration"
 
 </div>
 
-### `$ git stats`
+### `# git stats`
 
 <div align="center">
 
@@ -50,6 +50,5 @@ open_to    = "collaboration"
 
 <div align="center">
 
-`$ _`
 
 </div>
