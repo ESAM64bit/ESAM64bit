@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.jpg" width="140" alt="logo" />
+<img src="banner.png" width="140" alt="logo" />
 
 # ESAM64bit
 
