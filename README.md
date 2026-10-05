@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="header.svg" width="100%" alt="ESAM64bit" />
+<img src="header.svg" width="100%" alt="banner.png" />
 
 <br/>
 
