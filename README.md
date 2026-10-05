@@ -26,7 +26,7 @@ learning   = "GLASS AI OPNE"
 open_to    = "collaboration"
 ```
 
-### `$ ls stack/`
+### `# ls stack/`
 
 <div align="center">
 
