@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=17&pause=1200&color=9A9A9A&center=true&vCenter=true&width=460&lines=%24+whoami;developer+%7C+builder;%24+cd+GLASS-AI-OPNE" alt="typing" />
 
-<# br>
+<br>
 
 [![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ESAM64bit)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/essam-mesbah-a52278433)
@@ -30,7 +30,7 @@ open_to    = "collaboration"
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java]
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)
