@@ -30,7 +30,7 @@ open_to    = "collaboration"
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=#=white)
+![Java](https://img.shields.io/badge/Java-0d1117?style)
 ![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=white)
